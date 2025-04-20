@@ -1,0 +1,42 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f8ff;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  color: #004080;
+}
+
+h2 {
+  color: #0066cc;
+}
+
+.logo {
+  width: 120px;
+  height: auto;
+}
+
+nav {
+  margin-top: 20px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #004080;
+  font-weight: bold;
+}
+
+.property-img {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+
+hr {
+  margin: 20px 0;
+  border: 1px solid #ccc;
+}
